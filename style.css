@@ -1,0 +1,41 @@
+.aman{
+    background-color: aqua;
+}
+
+#maurya{
+    background-color: springgreen;
+}
+
+#sameer{
+    color: rgb(237, 237, 247);
+}
+.loginform{
+    width: 400px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: rgb(198, 10, 10);
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+#rahul{
+    background-color: blue;
+    width: 600px;
+    height: 500px;
+}
+#pandey1{
+    width: 500px;
+    height: 400px;
+    background-color: black;
+    padding: 50px;
+
+}
+#pandey2{
+    width: 300px;
+    height: 200px;
+    background-color: aliceblue;
+   margin-left: 100px;
+
+}
